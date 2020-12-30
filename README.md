@@ -1,16 +1,13 @@
-### Hi there 👋
+#                                                      ./Fated
 
-<!--
-**Faated/Faated** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="gif.gif">
 
-Here are some ideas to get you started:
+My name is System, I am from Alemnha and I am studying programming, which has been working as a social engineer for Black Pass since 2020. 📝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### "I only know I know nothing." 🧠
+
+- 🌎 From Berlim - Alemanha
+- 🧪 Working for Black Pass
+
+![](https://komarev.com/ghpvc/?username=systemfrozen&color=000000)
+
