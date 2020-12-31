@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" src="gif.gif">
 
-My name is System, I am from Alemnha and I am studying programming, which has been working as a social engineer for Black Pass since 2020. 📝
+### Unfortunately, we are all human.
 
-### "I only know I know nothing." 🧠
+### Main 🧠
 
 - 🌎 From Berlim - Alemanha
 - 🧪 Working for Black Pass
