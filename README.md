@@ -1,6 +1,6 @@
-#                                                      ./Fated
+# ./Fated
 
-<img align="right" alt="GIF" src="gif1.gif" widht="200" height="200">
+
 
 ### "Unfortunately, we are all human."
 
