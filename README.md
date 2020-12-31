@@ -11,4 +11,4 @@
 
 ### Lab
 <img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python">
-<img height="45" src="https://liquipedia.net/commons/images/c/cd/Assembly_logo.png" alt="ass">
+<img height="30" src="https://liquipedia.net/commons/images/c/cd/Assembly_logo.png" alt="ass">
