@@ -1,6 +1,6 @@
 #                                                      ./Fated
 
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/3ov9jLYWb4zCjGfqIE/source.gif">
+<img align="right" alt="GIF" src="gif1.gif">
 
 ### Unfortunately, we are all human.
 
