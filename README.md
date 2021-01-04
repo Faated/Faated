@@ -2,7 +2,7 @@
 
 
 
-### "Unfortunately, we are all human."
+### Programming and reverse engineering / Since 2k18
 
 ### Base 🔧
 
