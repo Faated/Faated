@@ -24,3 +24,6 @@ I'm Fated, I've been studying programming since 2018 and I'm an enthusiast in re
 <img src="https://github.githubassets.com/images/modules/open_graph/github-mark.png" width="55" height="25">
 
 </code>
+
+
+- <b>Studying</b>
