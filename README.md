@@ -5,4 +5,4 @@
 <img src="https://img.shields.io/badge/Assembly-white">
 <img src="https://img.shields.io/badge/JS-blue">
 </p>
-👋 Hello, I'm known as Fated
+<h3>👋 Hello, I'm known as Fated</h3>
