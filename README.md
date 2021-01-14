@@ -27,3 +27,8 @@ I'm Fated, I've been studying programming since 2018 and I'm an enthusiast in re
 
 
 - <h1>Studying<h1>
+<code>
+  <img src="ia.png" width="220" height="125">
+  <img src="https://cloudblogs.microsoft.com/uploads/prod/sites/32/2020/05/SQL.png" width="210" height="125">
+  </code>
+  
