@@ -22,7 +22,6 @@ I'm Fated, I've been studying programming since 2018 and I'm an enthusiast in re
   
 </code>
 
-
 - <b>Softwares</b>
 
 <code>
