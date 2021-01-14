@@ -16,5 +16,6 @@ I'm Fated, I've been studying programming since 2018 and I'm an enthusiast in re
 <b>Operational System</b>
 
 <code>
-<img src="https://assets.ubuntu.com/v1/1be42010-cof_orange_hex.jpg" widht="25" height="25">Ubuntu
+<img src="https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png" widht="25" height="25">
 </code>
+
