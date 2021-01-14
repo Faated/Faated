@@ -13,4 +13,4 @@ I'm Fated, I've been studying programming since 2018 and I'm an enthusiast in re
 
 <img align="center" src="https://www.mygo.ge/uploads/blog/1584024060.jpg">
 
-<h1>📝 interested in</h1>
+<b>📝 Interested in</b>
