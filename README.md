@@ -19,3 +19,9 @@ I'm Fated, I've been studying programming since 2018 and I'm an enthusiast in re
 <img src="https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png" widht="25" height="25">
 </code>
 
+- <b>Softwares</b>
+
+<code>
+
+<img src="https://miro.medium.com/fit/c/1838/551/0*S0gllBsD11p4kfwO.png" width="25" height="25">
+</code>
