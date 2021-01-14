@@ -26,4 +26,4 @@ I'm Fated, I've been studying programming since 2018 and I'm an enthusiast in re
 </code>
 
 
-- <b>Studying</b>
+- <h1>Studying<h1>
