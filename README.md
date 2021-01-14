@@ -11,4 +11,4 @@
 
 I'm Fated, I've been studying programming since 2018 and I'm an enthusiast in reverse engineering
 
-<img align="center" src="https://www.mygo.ge/uploads/blog/1584024060.jpg" width="350" height="350">
+<img align="center" src="https://www.mygo.ge/uploads/blog/1584024060.jpg" width="660" height="350">
