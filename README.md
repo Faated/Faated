@@ -11,7 +11,7 @@
 
 I'm Fated, I've been studying programming since 2018 and I'm an enthusiast in reverse engineering
 
-<img align="center" src="https://www.mygo.ge/uploads/blog/1584024060.jpg">
+<img align="center" src="https://64.media.tumblr.com/tumblr_m8kuxjuJcg1qdemqzo1_400.gif">
 
 - <b>Operational System</b>
 
