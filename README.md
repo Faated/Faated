@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Java-red"></img>
 <img src="https://img.shields.io/badge/C-green">
 <img src="https://img.shields.io/badge/C++-green">
-<img src="https://img.shields.io/badge/C#-green">
+<img src="https://img.shields.io/badge/C%23-green">
 <img src="https://img.shields.io/badge/Assembly-white">
 <img src="https://img.shields.io/badge/JS-blue">
 </p>
