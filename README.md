@@ -13,7 +13,7 @@ I'm Fated, I've been studying programming since 2018 and I'm an enthusiast in re
 
 <img align="center" src="https://www.mygo.ge/uploads/blog/1584024060.jpg">
 
-<b>Operational System</b>
+- <b>Operational System</b>
 
 <code>
 <img src="https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png" widht="25" height="25">
