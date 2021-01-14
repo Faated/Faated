@@ -23,5 +23,5 @@ I'm Fated, I've been studying programming since 2018 and I'm an enthusiast in re
 
 <code>
 
-<img src="https://miro.medium.com/fit/c/1838/551/0*S0gllBsD11p4kfwO.png" width="75" height="25">
+<img src="https://miro.medium.com/fit/c/1838/551/0*S0gllBsD11p4kfwO.png" width="80" height="25">
 </code>
