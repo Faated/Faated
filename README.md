@@ -20,4 +20,7 @@ I'm Fated, I've been studying programming since 2018 and I'm an enthusiast in re
 <img src="https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png" widht="25" height="25">
 <img src="https://img.ibxk.com.br/2019/06/21/21132926873068.jpg?w=1120&h=420&mode=crop&scale=both" widht="25" height="25">
 <img src="https://miro.medium.com/fit/c/1838/551/0*S0gllBsD11p4kfwO.png" width="80" height="25">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/GNU_Compiler_Collection_logo.png" width="80" height="35">
+<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/116196871/original/be866f69b5243132ba8ef9f2fe38d1343a96ce36/code-bash-script-for-your-system.jpg" width="25" height="25">
+<img src="https://github.githubassets.com/images/modules/open_graph/github-mark.png" width="55" height="25">
+
+</code>
